@@ -1,0 +1,17 @@
+{
+  "name": "doperaider-contracts",
+  "version": "1.0.0",
+  "description": "DopeRaider Contracts",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "truffle-hdwallet-provider": "0.0.6"
+  }
+}
